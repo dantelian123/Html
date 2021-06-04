@@ -5,3 +5,8 @@ section{
 #git{
 	background-color: #27B7A1;
 }
+h1{
+	color: red;
+	font-family: Arial;
+	font-size: 25px;
+}
